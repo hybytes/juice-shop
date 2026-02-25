@@ -5,3 +5,4 @@ jobs:
     # Calls your library repo
     uses: hybytes/shared-security-pipelines/.github/workflows/security-gate.yml@main
     secrets: inherit
+
